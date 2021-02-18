@@ -1,2 +1,4 @@
 
-export FOO=bar
+# source repos for this project are listed in the repo-manifest file
+# the bootstrap make target will clone repos from the manifest to the $REPO_PATH
+export REPO_PATH=./src

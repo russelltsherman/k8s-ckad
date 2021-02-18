@@ -3,3 +3,9 @@
 
 # ignore direnv vars
 .vars
+
+# ignore src directory
+src
+
+# ignore Brewfile.lock
+Brewfile.lock*
