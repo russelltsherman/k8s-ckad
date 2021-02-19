@@ -1,9 +1,9 @@
 -include $(shell curl -sSL -o .build-harness "https://raw.githubusercontent.com/russelltsherman/build-harness/main/templates/Makefile.build-harness"; echo .build-harness)
 
+.DEFAULT_GOAL :=
+
 ## initialize project and load dependencies
-bootstrap: init brew direnv
-	manifest pull
-	manifest make
+bootstrap: init brew direnv manifest 
 .PHONY: bootstrap
 
 ## configure and start minikube instance
