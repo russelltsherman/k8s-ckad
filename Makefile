@@ -2,6 +2,8 @@
 
 ## initialize project and load dependencies
 bootstrap: init brew direnv
+	manifest pull
+	manifest make
 .PHONY: bootstrap
 
 ## configure and start minikube instance

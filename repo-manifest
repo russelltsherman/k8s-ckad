@@ -1,6 +1,12 @@
-bmuschko/ckad-prep
-bmuschko/ckad-study-guide
-# comment line should be skipped
-dgkanatsios/CKAD-exercises
-mmumshad/crack-CKAD
-sandervanvugt/ckad
+###############################################################################
+# git repo manifest
+# 
+# one repo per line
+# 
+# {remote_repo_url} {local_repo}
+###############################################################################
+git@github.com:bmuschko/ckad-prep ckad-prep
+git@github.com:bmuschko/ckad-study-guide ckad-study-guide
+git@github.com:dgkanatsios/CKAD-exercises ckad-exercises
+git@github.com:mmumshad/crack-CKAD crack-CKAD
+git@github.com:sandervanvugt/ckad ckad
