@@ -5,8 +5,9 @@
 # 
 # {remote_repo_url} {local_repo}
 ###############################################################################
-git@github.com:bmuschko/ckad-prep ckad-prep
-git@github.com:bmuschko/ckad-study-guide ckad-study-guide
-git@github.com:dgkanatsios/CKAD-exercises ckad-exercises
-git@github.com:mmumshad/crack-CKAD crack-CKAD
-git@github.com:sandervanvugt/ckad ckad
+git@github.com:bmuschko/ckad-prep bmuschko/ckad-prep
+git@github.com:bmuschko/ckad-study-guide bmuschko/ckad-study-guide
+git@github.com:dgkanatsios/CKAD-exercises dgkanatsios/ckad-exercises
+git@github.com:mmumshad/crack-CKAD mmumshad/crack-CKAD
+git@github.com:sandervanvugt/ckad sandervanvugt/ckad
+git@github.com:twajr/ckad-prep-notes twajr/ckad-prep-notes
